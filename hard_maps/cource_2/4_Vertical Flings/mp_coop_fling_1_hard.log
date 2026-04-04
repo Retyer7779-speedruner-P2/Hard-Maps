@@ -1,0 +1,501 @@
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\cource_2_hard\vertical flings\mp_coop_fling_1_hard.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 380 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\cource_2_hard\vertical flings\mp_coop_fling_1_hard.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (326644 bytes)
+Encountered obsolete static prop option to do its fade in screen space @ -224.00 -144.00 0.25
+Encountered obsolete static prop option to do its fade in screen space @ -224.00 -176.00 0.25
+Encountered obsolete static prop option to do its fade in screen space @ -224.00 -176.00 -127.75
+Encountered obsolete static prop option to do its fade in screen space @ 784.00 192.00 1024.00
+Encountered obsolete static prop option to do its fade in screen space @ 784.00 320.00 1024.00
+Encountered obsolete static prop option to do its fade in screen space @ 784.00 448.00 1024.00
+Encountered obsolete static prop option to do its fade in screen space @ 784.00 576.00 1024.00
+Encountered obsolete static prop option to do its fade in screen space @ 752.00 448.00 1024.00
+Encountered obsolete static prop option to do its fade in screen space @ 752.00 576.00 1024.00
+Encountered obsolete static prop option to do its fade in screen space @ 656.00 1056.00 -192.00
+Encountered obsolete static prop option to do its fade in screen space @ 656.00 864.00 -192.00
+Encountered obsolete static prop option to do its fade in screen space @ 608.00 1136.00 -192.00
+Encountered obsolete static prop option to do its fade in screen space @ 480.00 1136.00 -192.00
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1251 texinfos to 571
+Reduced 95 texdatas to 82 (3690 bytes to 3075)
+Writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\cource_2_hard\vertical flings\mp_coop_fling_1_hard.bsp
+
+nummapplanes:     (  3104 / 65536 )
+nummapbrushes:    (   876 /  8192 )
+nummapbrushsides: (  6171 / 65536 )
+num_map_overlays: (    27 /   512 )
+nummodels:        (    38 /  1024 )
+num_entities:     (   270 / 16384 )
+
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\cource_2_hard\vertical flings\mp_coop_fling_1_hard.bsp
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\cource_2_hard\vertical flings\mp_coop_fling_1_hard.prt
+ 143 portalclusters
+ 313 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 42 visible clusters (0.00%)
+Total clusters visible: 8513
+Average clusters visible: 59
+Building PAS...
+Average clusters audible: 122
+visdatasize:5900  compressed from 6864
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\cource_2_hard\vertical flings\mp_coop_fling_1_hard.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[59 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\cource_2_hard\vertical flings\mp_coop_fling_1_hard.bsp
+1434 faces
+129633 square feet [18667176.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1434 patches before subdivision
+19792 patches after subdivision
+55 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2060680, max 468
+transfer lists:  15.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(24547, 30270, 35413)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(12860, 15860, 18603)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(7109, 8871, 10489)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(4027, 5021, 5939)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(2302, 2879, 3411)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(1320, 1653, 1960)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(760, 953, 1131)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(438, 549, 653)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(252, 317, 377)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(146, 183, 218)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(84, 106, 126)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(48, 61, 73)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(28, 35, 42)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(16, 20, 24)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(9, 12, 14)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(5, 7, 8)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(3, 4, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(2, 2, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(1, 1, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0028 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+26 of 26 (100% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  38/1024         1824/49152    ( 3.7%) 
+brushes                876/8192        10512/98304    (10.7%) 
+brushsides            6184/65536       49472/524288   ( 9.4%) 
+planes                3104/65536       62080/1310720  ( 4.7%) 
+vertexes              3266/65536       39192/786432   ( 5.0%) 
+nodes                  723/65536       23136/2097152  ( 1.1%) 
+texinfos               571/12288       41112/884736   ( 4.6%) 
+texdata                 82/2048         2624/65536    ( 4.0%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1434/65536       80304/3670016  ( 2.2%) 
+hdr faces             1434/65536       80304/3670016  ( 2.2%) 
+origfaces             1178/65536       65968/3670016  ( 1.8%) 
+facebrushes            244/0             488/0        ( 0.0%) 
+facebrushlists        1434/0            5736/0        ( 0.0%) 
+leaves                 762/65536       24384/2097152  ( 1.2%) 
+leaffaces             1863/65536        3726/131072   ( 2.8%) 
+leafbrushes           1520/65536        3040/131072   ( 2.3%) 
+areas                    9/256            72/2048     ( 3.5%) 
+surfedges            11679/512000      46716/2048000  ( 2.3%) 
+edges                 7314/256000      29256/1024000  ( 2.9%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights         55/8192         5500/819200   ( 0.7%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            164/32768        1640/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2916/65536        5832/131072   ( 4.4%) 
+cubemapsamples          18/1024          288/16384    ( 1.8%) 
+overlays                27/512          9504/180224   ( 5.3%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     2145252/0        ( 0.0%) 
+visdata               [variable]        5900/16777216 ( 0.0%) 
+entdata               [variable]      108736/393216   (27.7%) 
+LDR ambient table      762/65536        3048/262144   ( 1.2%) 
+HDR ambient table      762/65536        3048/262144   ( 1.2%) 
+LDR leaf ambient       762/65536       21336/1835008  ( 1.2%) 
+HDR leaf ambient      2437/65536       68236/1835008  ( 3.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/24228    ( 0.0%) 
+pakfile               [variable]     2549186/0        ( 0.0%) 
+physics               [variable]      326644/4194304  ( 7.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 4099
+Writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\cource_2_hard\vertical flings\mp_coop_fling_1_hard.bsp
+10 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\cource_2_hard\vertical flings\mp_coop_fling_1_hard.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 380 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\cource_2_hard\vertical flings\mp_coop_fling_1_hard.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (327264 bytes)
+Encountered obsolete static prop option to do its fade in screen space @ -224.00 -144.00 0.25
+Encountered obsolete static prop option to do its fade in screen space @ -224.00 -176.00 0.25
+Encountered obsolete static prop option to do its fade in screen space @ -224.00 -176.00 -127.75
+Encountered obsolete static prop option to do its fade in screen space @ 784.00 192.00 1024.00
+Encountered obsolete static prop option to do its fade in screen space @ 784.00 320.00 1024.00
+Encountered obsolete static prop option to do its fade in screen space @ 784.00 448.00 1024.00
+Encountered obsolete static prop option to do its fade in screen space @ 784.00 576.00 1024.00
+Encountered obsolete static prop option to do its fade in screen space @ 752.00 448.00 1024.00
+Encountered obsolete static prop option to do its fade in screen space @ 752.00 576.00 1024.00
+Encountered obsolete static prop option to do its fade in screen space @ 656.00 1056.00 -192.00
+Encountered obsolete static prop option to do its fade in screen space @ 656.00 864.00 -192.00
+Encountered obsolete static prop option to do its fade in screen space @ 608.00 1136.00 -192.00
+Encountered obsolete static prop option to do its fade in screen space @ 480.00 1136.00 -192.00
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1256 texinfos to 575
+Reduced 95 texdatas to 82 (3690 bytes to 3075)
+Writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\cource_2_hard\vertical flings\mp_coop_fling_1_hard.bsp
+
+nummapplanes:     (  3104 / 65536 )
+nummapbrushes:    (   877 /  8192 )
+nummapbrushsides: (  6177 / 65536 )
+num_map_overlays: (    27 /   512 )
+nummodels:        (    39 /  1024 )
+num_entities:     (   271 / 16384 )
+
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\cource_2_hard\vertical flings\mp_coop_fling_1_hard.bsp
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\cource_2_hard\vertical flings\mp_coop_fling_1_hard.prt
+ 146 portalclusters
+ 321 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 42 visible clusters (0.00%)
+Total clusters visible: 9200
+Average clusters visible: 63
+Building PAS...
+Average clusters audible: 125
+visdatasize:6247  compressed from 7008
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\cource_2_hard\vertical flings\mp_coop_fling_1_hard.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[59 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\cource_2_hard\vertical flings\mp_coop_fling_1_hard.bsp
+1442 faces
+132285 square feet [19049128.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1442 patches before subdivision
+19884 patches after subdivision
+55 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2066181, max 466
+transfer lists:  15.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(24488, 30194, 35310)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(12832, 15822, 18550)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(7094, 8850, 10459)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(4020, 5011, 5924)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(2299, 2874, 3405)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(1319, 1651, 1957)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(760, 952, 1130)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(438, 549, 652)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(253, 317, 377)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(146, 183, 218)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(84, 106, 126)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(49, 61, 73)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(28, 35, 42)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(16, 20, 24)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(9, 12, 14)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(5, 7, 8)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(3, 4, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(2, 2, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(1, 1, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0022 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+26 of 26 (100% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  39/1024         1872/49152    ( 3.8%) 
+brushes                877/8192        10524/98304    (10.7%) 
+brushsides            6190/65536       49520/524288   ( 9.4%) 
+planes                3104/65536       62080/1310720  ( 4.7%) 
+vertexes              3278/65536       39336/786432   ( 5.0%) 
+nodes                  734/65536       23488/2097152  ( 1.1%) 
+texinfos               575/12288       41400/884736   ( 4.7%) 
+texdata                 82/2048         2624/65536    ( 4.0%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1442/65536       80752/3670016  ( 2.2%) 
+hdr faces             1442/65536       80752/3670016  ( 2.2%) 
+origfaces             1187/65536       66472/3670016  ( 1.8%) 
+facebrushes            246/0             492/0        ( 0.0%) 
+facebrushlists        1442/0            5768/0        ( 0.0%) 
+leaves                 774/65536       24768/2097152  ( 1.2%) 
+leaffaces             1909/65536        3818/131072   ( 2.9%) 
+leafbrushes           1521/65536        3042/131072   ( 2.3%) 
+areas                    9/256            72/2048     ( 3.5%) 
+surfedges            11751/512000      47004/2048000  ( 2.3%) 
+edges                 7352/256000      29408/1024000  ( 2.9%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights         55/8192         5500/819200   ( 0.7%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            165/32768        1650/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2931/65536        5862/131072   ( 4.5%) 
+cubemapsamples          18/1024          288/16384    ( 1.8%) 
+overlays                27/512          9504/180224   ( 5.3%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     2124700/0        ( 0.0%) 
+visdata               [variable]        6247/16777216 ( 0.0%) 
+entdata               [variable]      109225/393216   (27.8%) 
+LDR ambient table      774/65536        3096/262144   ( 1.2%) 
+HDR ambient table      774/65536        3096/262144   ( 1.2%) 
+LDR leaf ambient       774/65536       21672/1835008  ( 1.2%) 
+HDR leaf ambient      2504/65536       70112/1835008  ( 3.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/24226    ( 0.0%) 
+pakfile               [variable]     2549186/0        ( 0.0%) 
+physics               [variable]      327264/4194304  ( 7.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 4119
+Writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\cource_2_hard\vertical flings\mp_coop_fling_1_hard.bsp
+10 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\cource_2_hard\vertical flings\mp_coop_fling_1_hard.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 380 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\cource_2_hard\vertical flings\mp_coop_fling_1_hard.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (327248 bytes)
+Encountered obsolete static prop option to do its fade in screen space @ -224.00 -144.00 0.25
+Encountered obsolete static prop option to do its fade in screen space @ -224.00 -176.00 0.25
+Encountered obsolete static prop option to do its fade in screen space @ -224.00 -176.00 -127.75
+Encountered obsolete static prop option to do its fade in screen space @ 784.00 192.00 1024.00
+Encountered obsolete static prop option to do its fade in screen space @ 784.00 320.00 1024.00
+Encountered obsolete static prop option to do its fade in screen space @ 784.00 448.00 1024.00
+Encountered obsolete static prop option to do its fade in screen space @ 784.00 576.00 1024.00
+Encountered obsolete static prop option to do its fade in screen space @ 752.00 448.00 1024.00
+Encountered obsolete static prop option to do its fade in screen space @ 752.00 576.00 1024.00
+Encountered obsolete static prop option to do its fade in screen space @ 656.00 1056.00 -192.00
+Encountered obsolete static prop option to do its fade in screen space @ 656.00 864.00 -192.00
+Encountered obsolete static prop option to do its fade in screen space @ 608.00 1136.00 -192.00
+Encountered obsolete static prop option to do its fade in screen space @ 480.00 1136.00 -192.00
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1256 texinfos to 574
+Reduced 95 texdatas to 82 (3690 bytes to 3075)
+Writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\cource_2_hard\vertical flings\mp_coop_fling_1_hard.bsp
+
+nummapplanes:     (  3104 / 65536 )
+nummapbrushes:    (   877 /  8192 )
+nummapbrushsides: (  6177 / 65536 )
+num_map_overlays: (    27 /   512 )
+nummodels:        (    39 /  1024 )
+num_entities:     (   271 / 16384 )
+
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\cource_2_hard\vertical flings\mp_coop_fling_1_hard.bsp
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\cource_2_hard\vertical flings\mp_coop_fling_1_hard.prt
+ 143 portalclusters
+ 313 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 46 visible clusters (0.00%)
+Total clusters visible: 8543
+Average clusters visible: 59
+Building PAS...
+Average clusters audible: 122
+visdatasize:5903  compressed from 6864
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\cource_2_hard\vertical flings\mp_coop_fling_1_hard.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[59 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\cource_2_hard\vertical flings\mp_coop_fling_1_hard.bsp
+1443 faces
+131553 square feet [18943656.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1443 patches before subdivision
+19713 patches after subdivision
+55 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2063437, max 467
+transfer lists:  15.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(24561, 30305, 35476)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(12875, 15890, 18655)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(7118, 8889, 10520)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(4033, 5033, 5958)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(2306, 2886, 3424)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(1323, 1657, 1968)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(761, 956, 1136)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(439, 551, 656)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(253, 318, 379)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(146, 184, 219)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(84, 106, 127)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(49, 61, 73)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(28, 35, 42)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(16, 21, 25)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(9, 12, 14)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(5, 7, 8)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(3, 4, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(2, 2, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(1, 1, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0020 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+26 of 26 (100% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  39/1024         1872/49152    ( 3.8%) 
+brushes                877/8192        10524/98304    (10.7%) 
+brushsides            6190/65536       49520/524288   ( 9.4%) 
+planes                3104/65536       62080/1310720  ( 4.7%) 
+vertexes              3283/65536       39396/786432   ( 5.0%) 
+nodes                  729/65536       23328/2097152  ( 1.1%) 
+texinfos               574/12288       41328/884736   ( 4.7%) 
+texdata                 82/2048         2624/65536    ( 4.0%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1443/65536       80808/3670016  ( 2.2%) 
+hdr faces             1443/65536       80808/3670016  ( 2.2%) 
+origfaces             1185/65536       66360/3670016  ( 1.8%) 
+facebrushes            246/0             492/0        ( 0.0%) 
+facebrushlists        1443/0            5772/0        ( 0.0%) 
+leaves                 769/65536       24608/2097152  ( 1.2%) 
+leaffaces             1877/65536        3754/131072   ( 2.9%) 
+leafbrushes           1521/65536        3042/131072   ( 2.3%) 
+areas                    9/256            72/2048     ( 3.5%) 
+surfedges            11753/512000      47012/2048000  ( 2.3%) 
+edges                 7352/256000      29408/1024000  ( 2.9%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights         55/8192         5500/819200   ( 0.7%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            167/32768        1670/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2964/65536        5928/131072   ( 4.5%) 
+cubemapsamples          18/1024          288/16384    ( 1.8%) 
+overlays                27/512          9504/180224   ( 5.3%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     2145636/0        ( 0.0%) 
+visdata               [variable]        5903/16777216 ( 0.0%) 
+entdata               [variable]      109222/393216   (27.8%) 
+LDR ambient table      769/65536        3076/262144   ( 1.2%) 
+HDR ambient table      769/65536        3076/262144   ( 1.2%) 
+LDR leaf ambient       769/65536       21532/1835008  ( 1.2%) 
+HDR leaf ambient      2473/65536       69244/1835008  ( 3.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/24228    ( 0.0%) 
+pakfile               [variable]     2549186/0        ( 0.0%) 
+physics               [variable]      327248/4194304  ( 7.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 4127
+Writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\cource_2_hard\vertical flings\mp_coop_fling_1_hard.bsp
+10 seconds elapsed
