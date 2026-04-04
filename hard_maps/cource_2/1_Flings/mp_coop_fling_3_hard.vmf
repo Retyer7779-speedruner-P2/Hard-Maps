@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8870"
-	"mapversion" "35"
+	"mapversion" "37"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -161,7 +161,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "35"
+	"mapversion" "37"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.6.1 from mp_coop_fling_3"
 	"detailmaterial" "detail/detailsprites"
@@ -2543,7 +2543,7 @@ world
 				"v" "768 960 32"
 				"v" "768 960 288"
 			}
-			"material" "METAL/BLACK_WALL_METAL_002D"
+			"material" "METAL/BLACK_WALL_METAL_002A"
 			"uaxis" "[0 -1 0 768] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
@@ -166642,42 +166642,13 @@ entity
 		"logicalpos" "[7500 -15268]"
 	}
 }
-entity
-{
-	"id" "687101"
-	"classname" "info_overlay"
-	"angles" "0 0 0"
-	"BasisNormal" "0 1 0"
-	"BasisOrigin" "512 704 224"
-	"BasisU" "1 -0 0"
-	"BasisV" "0 0 -1"
-	"endu" "0"
-	"endv" "1"
-	"fademindist" "-1"
-	"material" "custom/wow"
-	"sides" "251"
-	"startu" "1"
-	"startv" "0"
-	"uv0" "-128 -128 0"
-	"uv1" "-128 128 0"
-	"uv2" "128 128 0"
-	"uv3" "128 -128 0"
-	"origin" "512 704 224"
-	editor
-	{
-		"color" "80 150 225"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 500]"
-	}
-}
 cameras
 {
 	"activecamera" "0"
 	camera
 	{
-		"position" "[388.014 1167.02 138.166]"
-		"look" "[486.739 922.682 177.08]"
+		"position" "[289.067 -585.385 345.815]"
+		"look" "[501.543 -724.411 265.267]"
 	}
 }
 cordons
