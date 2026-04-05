@@ -1,0 +1,2351 @@
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_d.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 420 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_d.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (320103 bytes)
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -576.00
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -448.00
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -320.00
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -192.00
+Encountered obsolete static prop option to do its fade in screen space @ -224.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -96.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -480.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -352.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -736.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -608.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -992.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -864.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ 32.00 -48.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 160.00 -48.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 288.00 -48.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 288.00 -400.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 160.00 -400.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 32.00 -400.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -336.00 -832.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -336.00 -640.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -288.00 -912.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -160.00 -912.00 -640.00
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1297 texinfos to 619
+Reduced 77 texdatas to 68 (2859 bytes to 2471)
+Writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_d.bsp
+
+nummapplanes:     (  2980 / 65536 )
+nummapbrushes:    (   858 /  8192 )
+nummapbrushsides: (  6079 / 65536 )
+num_map_overlays: (    19 /   512 )
+nummodels:        (    49 /  1024 )
+num_entities:     (   256 / 16384 )
+
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_d.bsp
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_d.prt
+ 178 portalclusters
+ 484 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 82 visible clusters (0.00%)
+Total clusters visible: 15828
+Average clusters visible: 88
+Building PAS...
+Average clusters audible: 158
+visdatasize:9166  compressed from 8544
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_d.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[59 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_d.bsp
+1575 faces
+159731 square feet [23001340.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1575 patches before subdivision
+19333 patches after subdivision
+71 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1996788, max 544
+transfer lists:  15.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(51050, 53645, 56841)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(27214, 28368, 29900)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(14244, 14901, 15730)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(7801, 8149, 8575)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(4264, 4455, 4678)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(2361, 2465, 2582)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1312, 1370, 1431)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(734, 766, 798)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(412, 430, 447)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(232, 242, 252)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(131, 137, 142)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(75, 78, 80)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(42, 44, 46)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(24, 25, 26)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(14, 14, 15)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(8, 8, 8)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(5, 5, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(3, 3, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(1, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0030 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+44 of 44 (100% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  49/1024         2352/49152    ( 4.8%) 
+brushes                858/8192        10296/98304    (10.5%) 
+brushsides            6087/65536       48696/524288   ( 9.3%) 
+planes                2980/65536       59600/1310720  ( 4.5%) 
+vertexes              3601/65536       43212/786432   ( 5.5%) 
+nodes                  884/65536       28288/2097152  ( 1.3%) 
+texinfos               619/12288       44568/884736   ( 5.0%) 
+texdata                 68/2048         2176/65536    ( 3.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1575/65536       88200/3670016  ( 2.4%) 
+hdr faces             1575/65536       88200/3670016  ( 2.4%) 
+origfaces             1316/65536       73696/3670016  ( 2.0%) 
+facebrushes            217/0             434/0        ( 0.0%) 
+facebrushlists        1575/0            6300/0        ( 0.0%) 
+leaves                 934/65536       29888/2097152  ( 1.4%) 
+leaffaces             2053/65536        4106/131072   ( 3.1%) 
+leafbrushes           1587/65536        3174/131072   ( 2.4%) 
+areas                    7/256            56/2048     ( 2.7%) 
+surfedges            12986/512000      51944/2048000  ( 2.5%) 
+edges                 8149/256000      32596/1024000  ( 3.2%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights         71/8192         7100/819200   ( 0.9%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            187/32768        1870/327680   ( 0.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          3453/65536        6906/131072   ( 5.3%) 
+cubemapsamples          10/1024          160/16384    ( 1.0%) 
+overlays                19/512          6688/180224   ( 3.7%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     1245460/0        ( 0.0%) 
+visdata               [variable]        9166/16777216 ( 0.1%) 
+entdata               [variable]      103163/393216   (26.2%) 
+LDR ambient table      934/65536        3736/262144   ( 1.4%) 
+HDR ambient table      934/65536        3736/262144   ( 1.4%) 
+LDR leaf ambient       934/65536       26152/1835008  ( 1.4%) 
+HDR leaf ambient      1906/65536       53368/1835008  ( 2.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/35146    ( 0.0%) 
+pakfile               [variable]     2600109/0        ( 0.0%) 
+physics               [variable]      320103/4194304  ( 7.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 4564
+Writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_d.bsp
+22 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 420 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (320657 bytes)
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -576.00
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -448.00
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -320.00
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -192.00
+Encountered obsolete static prop option to do its fade in screen space @ -224.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -96.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -480.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -352.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -736.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -608.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -992.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -864.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ 32.00 -48.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 160.00 -48.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 288.00 -48.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 288.00 -400.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 160.00 -400.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 32.00 -400.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -336.00 -832.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -336.00 -640.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -288.00 -912.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -160.00 -912.00 -640.00
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1313 texinfos to 622
+Reduced 77 texdatas to 68 (2925 bytes to 2525)
+Writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+
+nummapplanes:     (  2982 / 65536 )
+nummapbrushes:    (   859 /  8192 )
+nummapbrushsides: (  6085 / 65536 )
+num_map_overlays: (    19 /   512 )
+nummodels:        (    50 /  1024 )
+num_entities:     (   257 / 16384 )
+
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.prt
+ 178 portalclusters
+ 484 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 82 visible clusters (0.00%)
+Total clusters visible: 15828
+Average clusters visible: 88
+Building PAS...
+Average clusters audible: 158
+visdatasize:9166  compressed from 8544
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[59 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+1581 faces
+160527 square feet [23116028.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1581 patches before subdivision
+19339 patches after subdivision
+71 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1997337, max 544
+transfer lists:  15.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(51087, 53686, 56888)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(27238, 28393, 29927)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(14259, 14917, 15748)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(7808, 8157, 8583)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(4268, 4459, 4683)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(2363, 2467, 2584)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1313, 1371, 1432)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(734, 766, 799)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(412, 430, 448)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(233, 242, 252)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(132, 137, 142)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(75, 78, 80)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(42, 44, 46)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(24, 25, 26)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(14, 14, 15)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(8, 8, 8)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(5, 5, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(3, 3, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(1, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0026 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+44 of 44 (100% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  50/1024         2400/49152    ( 4.9%) 
+brushes                859/8192        10308/98304    (10.5%) 
+brushsides            6093/65536       48744/524288   ( 9.3%) 
+planes                2982/65536       59640/1310720  ( 4.6%) 
+vertexes              3609/65536       43308/786432   ( 5.5%) 
+nodes                  890/65536       28480/2097152  ( 1.4%) 
+texinfos               622/12288       44784/884736   ( 5.1%) 
+texdata                 68/2048         2176/65536    ( 3.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1581/65536       88536/3670016  ( 2.4%) 
+hdr faces             1581/65536       88536/3670016  ( 2.4%) 
+origfaces             1322/65536       74032/3670016  ( 2.0%) 
+facebrushes            217/0             434/0        ( 0.0%) 
+facebrushlists        1581/0            6324/0        ( 0.0%) 
+leaves                 941/65536       30112/2097152  ( 1.4%) 
+leaffaces             2059/65536        4118/131072   ( 3.1%) 
+leafbrushes           1588/65536        3176/131072   ( 2.4%) 
+areas                    7/256            56/2048     ( 2.7%) 
+surfedges            13034/512000      52136/2048000  ( 2.5%) 
+edges                 8173/256000      32692/1024000  ( 3.2%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights         71/8192         7100/819200   ( 0.9%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            187/32768        1870/327680   ( 0.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          3453/65536        6906/131072   ( 5.3%) 
+cubemapsamples          10/1024          160/16384    ( 1.0%) 
+overlays                19/512          6688/180224   ( 3.7%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     1245460/0        ( 0.0%) 
+visdata               [variable]        9166/16777216 ( 0.1%) 
+entdata               [variable]      103465/393216   (26.3%) 
+LDR ambient table      941/65536        3764/262144   ( 1.4%) 
+HDR ambient table      941/65536        3764/262144   ( 1.4%) 
+LDR leaf ambient       941/65536       26348/1835008  ( 1.4%) 
+HDR leaf ambient      1911/65536       53508/1835008  ( 2.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/35146    ( 0.0%) 
+pakfile               [variable]     2600439/0        ( 0.0%) 
+physics               [variable]      320657/4194304  ( 7.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 4576
+Writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+22 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 420 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (320609 bytes)
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -576.00
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -448.00
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -320.00
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -192.00
+Encountered obsolete static prop option to do its fade in screen space @ -224.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -96.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -480.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -352.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -736.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -608.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -992.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -864.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ 32.00 -48.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 160.00 -48.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 288.00 -48.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 288.00 -400.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 160.00 -400.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 32.00 -400.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -336.00 -832.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -336.00 -640.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -288.00 -912.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -160.00 -912.00 -640.00
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1329 texinfos to 621
+Reduced 79 texdatas to 69 (3015 bytes to 2551)
+Writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+
+nummapplanes:     (  2966 / 65536 )
+nummapbrushes:    (   860 /  8192 )
+nummapbrushsides: (  6091 / 65536 )
+num_map_overlays: (    19 /   512 )
+nummodels:        (    48 /  1024 )
+num_entities:     (   255 / 16384 )
+
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.prt
+ 181 portalclusters
+ 492 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 83 visible clusters (0.00%)
+Total clusters visible: 16308
+Average clusters visible: 90
+Building PAS...
+Average clusters audible: 161
+visdatasize:9052  compressed from 8688
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[59 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+1578 faces
+148422 square feet [21372856.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1578 patches before subdivision
+19388 patches after subdivision
+71 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1990990, max 531
+transfer lists:  15.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(51327, 53704, 56807)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(27743, 28603, 30038)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(14646, 15052, 15797)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(8069, 8245, 8613)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(4431, 4513, 4699)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(2461, 2499, 2594)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1371, 1390, 1438)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(768, 777, 802)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(432, 437, 449)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(244, 246, 253)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(138, 139, 143)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(78, 79, 81)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(45, 45, 46)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(25, 26, 26)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(14, 15, 15)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(8, 8, 8)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(5, 5, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(3, 3, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(2, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0019 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+44 of 44 (100% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  48/1024         2304/49152    ( 4.7%) 
+brushes                860/8192        10320/98304    (10.5%) 
+brushsides            6099/65536       48792/524288   ( 9.3%) 
+planes                2966/65536       59320/1310720  ( 4.5%) 
+vertexes              3614/65536       43368/786432   ( 5.5%) 
+nodes                  880/65536       28160/2097152  ( 1.3%) 
+texinfos               621/12288       44712/884736   ( 5.1%) 
+texdata                 69/2048         2208/65536    ( 3.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1578/65536       88368/3670016  ( 2.4%) 
+hdr faces             1578/65536       88368/3670016  ( 2.4%) 
+origfaces             1310/65536       73360/3670016  ( 2.0%) 
+facebrushes            233/0             466/0        ( 0.0%) 
+facebrushlists        1578/0            6312/0        ( 0.0%) 
+leaves                 929/65536       29728/2097152  ( 1.4%) 
+leaffaces             2053/65536        4106/131072   ( 3.1%) 
+leafbrushes           1590/65536        3180/131072   ( 2.4%) 
+areas                    7/256            56/2048     ( 2.7%) 
+surfedges            13001/512000      52004/2048000  ( 2.5%) 
+edges                 8167/256000      32668/1024000  ( 3.2%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights         71/8192         7100/819200   ( 0.9%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            188/32768        1880/327680   ( 0.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          3474/65536        6948/131072   ( 5.3%) 
+cubemapsamples          10/1024          160/16384    ( 1.0%) 
+overlays                19/512          6688/180224   ( 3.7%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     1253940/0        ( 0.0%) 
+visdata               [variable]        9052/16777216 ( 0.1%) 
+entdata               [variable]      102705/393216   (26.1%) 
+LDR ambient table      929/65536        3716/262144   ( 1.4%) 
+HDR ambient table      929/65536        3716/262144   ( 1.4%) 
+LDR leaf ambient       929/65536       26012/1835008  ( 1.4%) 
+HDR leaf ambient      1992/65536       55776/1835008  ( 3.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/35180    ( 0.0%) 
+pakfile               [variable]     2600814/0        ( 0.0%) 
+physics               [variable]      320609/4194304  ( 7.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 4597
+Writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+22 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 420 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (320881 bytes)
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -576.00
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -448.00
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -320.00
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -192.00
+Encountered obsolete static prop option to do its fade in screen space @ -224.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -96.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -480.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -352.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -736.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -608.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -992.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -864.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ 32.00 -48.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 160.00 -48.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 288.00 -48.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 288.00 -400.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 160.00 -400.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 32.00 -400.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -336.00 -832.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -336.00 -640.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -288.00 -912.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -160.00 -912.00 -640.00
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1336 texinfos to 629
+Reduced 79 texdatas to 70 (3015 bytes to 2615)
+Writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+
+nummapplanes:     (  2974 / 65536 )
+nummapbrushes:    (   860 /  8192 )
+nummapbrushsides: (  6091 / 65536 )
+num_map_overlays: (    19 /   512 )
+nummodels:        (    49 /  1024 )
+num_entities:     (   256 / 16384 )
+
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.prt
+ 180 portalclusters
+ 489 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 84 visible clusters (0.00%)
+Total clusters visible: 16124
+Average clusters visible: 89
+Building PAS...
+Average clusters audible: 160
+visdatasize:9258  compressed from 8640
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[59 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_laser_catcher (-16.00 -224.00 -352.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2048.0 -1536.0 -344.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1180.0 -1024.0 -344.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1400.0 -1024.0 -846.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1756.0 -1024.0 -846.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1400.0 -1024.0 -572.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1756.0 -1024.0 -572.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1400.0 -1024.0 -70.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1756.0 -1024.0 -70.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 420 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (318865 bytes)
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -576.00
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -448.00
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -320.00
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -192.00
+Encountered obsolete static prop option to do its fade in screen space @ -224.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -96.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -480.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -352.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -736.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -608.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -992.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -864.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ 32.00 -48.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 160.00 -48.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 288.00 -48.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 288.00 -400.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 160.00 -400.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 32.00 -400.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -336.00 -832.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -336.00 -640.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -288.00 -912.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -160.00 -912.00 -640.00
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1336 texinfos to 639
+Reduced 79 texdatas to 70 (3015 bytes to 2615)
+Writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+
+nummapplanes:     (  2974 / 65536 )
+nummapbrushes:    (   854 /  8192 )
+nummapbrushsides: (  6055 / 65536 )
+num_map_overlays: (    19 /   512 )
+nummodels:        (    49 /  1024 )
+num_entities:     (   255 / 16384 )
+
+1 second elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (32.00 -400.00 -640.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2048.0 -1536.0 -344.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1180.0 -1024.0 -344.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1400.0 -1024.0 -846.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1756.0 -1024.0 -846.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1400.0 -1024.0 -572.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1756.0 -1024.0 -572.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1400.0 -1024.0 -70.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1756.0 -1024.0 -70.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 420 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (318865 bytes)
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -576.00
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -448.00
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -320.00
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -192.00
+Encountered obsolete static prop option to do its fade in screen space @ -224.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -96.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -480.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -352.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -736.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -608.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -992.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -864.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ 32.00 -48.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 160.00 -48.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 288.00 -48.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 288.00 -400.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 160.00 -400.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 32.00 -400.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -336.00 -832.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -336.00 -640.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -288.00 -912.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -160.00 -912.00 -640.00
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1336 texinfos to 639
+Reduced 79 texdatas to 70 (3015 bytes to 2615)
+Writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+
+nummapplanes:     (  2974 / 65536 )
+nummapbrushes:    (   854 /  8192 )
+nummapbrushsides: (  6055 / 65536 )
+num_map_overlays: (    19 /   512 )
+nummodels:        (    49 /  1024 )
+num_entities:     (   255 / 16384 )
+
+1 second elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (32.00 -400.00 -640.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2048.0 -1536.0 -344.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1180.0 -1024.0 -344.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1400.0 -1024.0 -846.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1756.0 -1024.0 -846.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1400.0 -1024.0 -572.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1756.0 -1024.0 -572.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1400.0 -1024.0 -70.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1756.0 -1024.0 -70.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 420 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (318865 bytes)
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -576.00
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -448.00
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -320.00
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -192.00
+Encountered obsolete static prop option to do its fade in screen space @ -224.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -96.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -480.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -352.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -736.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -608.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -992.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -864.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ 32.00 -48.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 160.00 -48.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 288.00 -48.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 288.00 -400.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 160.00 -400.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 32.00 -400.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -336.00 -832.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -336.00 -640.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -288.00 -912.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -160.00 -912.00 -640.00
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1336 texinfos to 639
+Reduced 79 texdatas to 70 (3015 bytes to 2615)
+Writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+
+nummapplanes:     (  2974 / 65536 )
+nummapbrushes:    (   854 /  8192 )
+nummapbrushsides: (  6055 / 65536 )
+num_map_overlays: (    19 /   512 )
+nummodels:        (    49 /  1024 )
+num_entities:     (   255 / 16384 )
+
+1 second elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 420 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (318865 bytes)
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -576.00
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -448.00
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -320.00
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -192.00
+Encountered obsolete static prop option to do its fade in screen space @ -224.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -96.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -480.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -352.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -736.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -608.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -992.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -864.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ 32.00 -48.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 160.00 -48.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 288.00 -48.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 288.00 -400.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 160.00 -400.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 32.00 -400.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -336.00 -832.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -336.00 -640.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -288.00 -912.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -160.00 -912.00 -640.00
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1336 texinfos to 622
+Reduced 79 texdatas to 70 (3015 bytes to 2615)
+Writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+
+nummapplanes:     (  2974 / 65536 )
+nummapbrushes:    (   854 /  8192 )
+nummapbrushsides: (  6055 / 65536 )
+num_map_overlays: (    19 /   512 )
+nummodels:        (    49 /  1024 )
+num_entities:     (   255 / 16384 )
+
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.prt
+ 179 portalclusters
+ 482 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 72 visible clusters (0.00%)
+Total clusters visible: 15613
+Average clusters visible: 87
+Building PAS...
+Average clusters audible: 159
+visdatasize:9170  compressed from 8592
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[59 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 420 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (317225 bytes)
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -576.00
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -448.00
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -320.00
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -192.00
+Encountered obsolete static prop option to do its fade in screen space @ -224.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -96.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -480.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -352.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -736.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -608.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -992.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -864.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ 32.00 -48.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 160.00 -48.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 288.00 -48.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 288.00 -400.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 160.00 -400.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 32.00 -400.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -336.00 -832.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -336.00 -640.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -288.00 -912.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -160.00 -912.00 -640.00
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1334 texinfos to 620
+Reduced 79 texdatas to 70 (3015 bytes to 2615)
+Writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+
+nummapplanes:     (  2972 / 65536 )
+nummapbrushes:    (   849 /  8192 )
+nummapbrushsides: (  6025 / 65536 )
+num_map_overlays: (    19 /   512 )
+nummodels:        (    49 /  1024 )
+num_entities:     (   255 / 16384 )
+
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.prt
+ 179 portalclusters
+ 484 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 70 visible clusters (0.00%)
+Total clusters visible: 15677
+Average clusters visible: 87
+Building PAS...
+Average clusters audible: 159
+visdatasize:9170  compressed from 8592
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[59 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+1564 faces
+148265 square feet [21350300.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1564 patches before subdivision
+19360 patches after subdivision
+71 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1987128, max 524
+transfer lists:  15.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(51411, 54032, 57280)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(27559, 28747, 30328)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(14437, 15111, 15969)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(7901, 8259, 8702)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(4312, 4509, 4742)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(2382, 2489, 2612)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1320, 1379, 1444)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(736, 769, 803)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(412, 430, 448)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(231, 241, 251)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(130, 136, 141)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(74, 77, 80)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(42, 43, 45)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(24, 25, 26)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(13, 14, 14)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(8, 8, 8)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(4, 5, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(2, 3, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(1, 1, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0027 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+44 of 44 (100% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  49/1024         2352/49152    ( 4.8%) 
+brushes                849/8192        10188/98304    (10.4%) 
+brushsides            6033/65536       48264/524288   ( 9.2%) 
+planes                2972/65536       59440/1310720  ( 4.5%) 
+vertexes              3585/65536       43020/786432   ( 5.5%) 
+nodes                  882/65536       28224/2097152  ( 1.3%) 
+texinfos               620/12288       44640/884736   ( 5.0%) 
+texdata                 70/2048         2240/65536    ( 3.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1564/65536       87584/3670016  ( 2.4%) 
+hdr faces             1564/65536       87584/3670016  ( 2.4%) 
+origfaces             1303/65536       72968/3670016  ( 2.0%) 
+facebrushes            235/0             470/0        ( 0.0%) 
+facebrushlists        1564/0            6256/0        ( 0.0%) 
+leaves                 932/65536       29824/2097152  ( 1.4%) 
+leaffaces             2026/65536        4052/131072   ( 3.1%) 
+leafbrushes           1568/65536        3136/131072   ( 2.4%) 
+areas                    7/256            56/2048     ( 2.7%) 
+surfedges            12885/512000      51540/2048000  ( 2.5%) 
+edges                 8087/256000      32348/1024000  ( 3.2%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights         71/8192         7100/819200   ( 0.9%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            183/32768        1830/327680   ( 0.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          3438/65536        6876/131072   ( 5.2%) 
+cubemapsamples          10/1024          160/16384    ( 1.0%) 
+overlays                19/512          6688/180224   ( 3.7%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     1249164/0        ( 0.0%) 
+visdata               [variable]        9170/16777216 ( 0.1%) 
+entdata               [variable]      103046/393216   (26.2%) 
+LDR ambient table      932/65536        3728/262144   ( 1.4%) 
+HDR ambient table      932/65536        3728/262144   ( 1.4%) 
+LDR leaf ambient       932/65536       26096/1835008  ( 1.4%) 
+HDR leaf ambient      2016/65536       56448/1835008  ( 3.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/35170    ( 0.0%) 
+pakfile               [variable]     2600814/0        ( 0.0%) 
+physics               [variable]      317225/4194304  ( 7.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 4537
+Writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+23 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 420 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (316669 bytes)
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -576.00
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -448.00
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -320.00
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -192.00
+Encountered obsolete static prop option to do its fade in screen space @ -224.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -96.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -480.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -352.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -736.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -608.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -992.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -864.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ 32.00 -48.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 160.00 -48.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 288.00 -48.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 288.00 -400.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 160.00 -400.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 32.00 -400.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -336.00 -832.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -336.00 -640.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -288.00 -912.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -160.00 -912.00 -640.00
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1330 texinfos to 617
+Reduced 79 texdatas to 70 (3015 bytes to 2615)
+Writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+
+nummapplanes:     (  2972 / 65536 )
+nummapbrushes:    (   847 /  8192 )
+nummapbrushsides: (  6013 / 65536 )
+num_map_overlays: (    19 /   512 )
+nummodels:        (    48 /  1024 )
+num_entities:     (   256 / 16384 )
+
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.prt
+ 179 portalclusters
+ 484 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 72 visible clusters (0.00%)
+Total clusters visible: 15679
+Average clusters visible: 87
+Building PAS...
+Average clusters audible: 159
+visdatasize:9170  compressed from 8592
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[59 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+1558 faces
+146104 square feet [21039004.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1558 patches before subdivision
+19354 patches after subdivision
+73 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1986274, max 524
+transfer lists:  15.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(51767, 54396, 57644)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(27757, 28951, 30534)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(14557, 15236, 16094)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(7970, 8330, 8774)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(4353, 4551, 4784)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(2405, 2513, 2636)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1333, 1393, 1458)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(743, 777, 811)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(416, 434, 453)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(234, 244, 254)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(132, 137, 143)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(74, 78, 81)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(42, 44, 46)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(24, 25, 26)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(14, 14, 15)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(8, 8, 8)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(4, 5, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(3, 3, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(1, 1, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0021 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+44 of 44 (100% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  48/1024         2304/49152    ( 4.7%) 
+brushes                847/8192        10164/98304    (10.3%) 
+brushsides            6021/65536       48168/524288   ( 9.2%) 
+planes                2972/65536       59440/1310720  ( 4.5%) 
+vertexes              3577/65536       42924/786432   ( 5.5%) 
+nodes                  876/65536       28032/2097152  ( 1.3%) 
+texinfos               617/12288       44424/884736   ( 5.0%) 
+texdata                 70/2048         2240/65536    ( 3.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1558/65536       87248/3670016  ( 2.4%) 
+hdr faces             1558/65536       87248/3670016  ( 2.4%) 
+origfaces             1297/65536       72632/3670016  ( 2.0%) 
+facebrushes            235/0             470/0        ( 0.0%) 
+facebrushlists        1558/0            6232/0        ( 0.0%) 
+leaves                 925/65536       29600/2097152  ( 1.4%) 
+leaffaces             2020/65536        4040/131072   ( 3.1%) 
+leafbrushes           1566/65536        3132/131072   ( 2.4%) 
+areas                    7/256            56/2048     ( 2.7%) 
+surfedges            12837/512000      51348/2048000  ( 2.5%) 
+edges                 8063/256000      32252/1024000  ( 3.1%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights         73/8192         7300/819200   ( 0.9%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            183/32768        1830/327680   ( 0.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          3438/65536        6876/131072   ( 5.2%) 
+cubemapsamples          10/1024          160/16384    ( 1.0%) 
+overlays                19/512          6688/180224   ( 3.7%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     1249164/0        ( 0.0%) 
+visdata               [variable]        9170/16777216 ( 0.1%) 
+entdata               [variable]      103520/393216   (26.3%) 
+LDR ambient table      925/65536        3700/262144   ( 1.4%) 
+HDR ambient table      925/65536        3700/262144   ( 1.4%) 
+LDR leaf ambient       925/65536       25900/1835008  ( 1.4%) 
+HDR leaf ambient      2001/65536       56028/1835008  ( 3.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/35170    ( 0.0%) 
+pakfile               [variable]     2600814/0        ( 0.0%) 
+physics               [variable]      316669/4194304  ( 7.5%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 4525
+Writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+23 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 420 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (316669 bytes)
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -576.00
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -448.00
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -320.00
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -192.00
+Encountered obsolete static prop option to do its fade in screen space @ -224.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -96.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -480.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -352.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -736.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -608.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -992.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -864.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ 32.00 -48.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 160.00 -48.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 288.00 -48.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 288.00 -400.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 160.00 -400.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 32.00 -400.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -336.00 -832.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -336.00 -640.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -288.00 -912.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -160.00 -912.00 -640.00
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1330 texinfos to 617
+Reduced 79 texdatas to 70 (3015 bytes to 2615)
+Writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+
+nummapplanes:     (  2972 / 65536 )
+nummapbrushes:    (   847 /  8192 )
+nummapbrushsides: (  6013 / 65536 )
+num_map_overlays: (    19 /   512 )
+nummodels:        (    48 /  1024 )
+num_entities:     (   256 / 16384 )
+
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.prt
+ 179 portalclusters
+ 484 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 72 visible clusters (0.00%)
+Total clusters visible: 15679
+Average clusters visible: 87
+Building PAS...
+Average clusters audible: 159
+visdatasize:9170  compressed from 8592
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[59 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+1558 faces
+146104 square feet [21039004.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1558 patches before subdivision
+19354 patches after subdivision
+73 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1986274, max 524
+transfer lists:  15.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(51764, 54393, 57641)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(27756, 28950, 30532)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(14557, 15235, 16094)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(7970, 8330, 8774)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(4352, 4551, 4784)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(2405, 2513, 2636)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1333, 1393, 1458)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(743, 777, 811)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(416, 434, 453)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(234, 244, 254)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(132, 137, 143)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(74, 78, 81)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(42, 44, 46)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(24, 25, 26)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(14, 14, 15)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(8, 8, 8)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(4, 5, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(3, 3, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(1, 1, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0021 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+44 of 44 (100% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  48/1024         2304/49152    ( 4.7%) 
+brushes                847/8192        10164/98304    (10.3%) 
+brushsides            6021/65536       48168/524288   ( 9.2%) 
+planes                2972/65536       59440/1310720  ( 4.5%) 
+vertexes              3577/65536       42924/786432   ( 5.5%) 
+nodes                  876/65536       28032/2097152  ( 1.3%) 
+texinfos               617/12288       44424/884736   ( 5.0%) 
+texdata                 70/2048         2240/65536    ( 3.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1558/65536       87248/3670016  ( 2.4%) 
+hdr faces             1558/65536       87248/3670016  ( 2.4%) 
+origfaces             1297/65536       72632/3670016  ( 2.0%) 
+facebrushes            235/0             470/0        ( 0.0%) 
+facebrushlists        1558/0            6232/0        ( 0.0%) 
+leaves                 925/65536       29600/2097152  ( 1.4%) 
+leaffaces             2020/65536        4040/131072   ( 3.1%) 
+leafbrushes           1566/65536        3132/131072   ( 2.4%) 
+areas                    7/256            56/2048     ( 2.7%) 
+surfedges            12837/512000      51348/2048000  ( 2.5%) 
+edges                 8063/256000      32252/1024000  ( 3.1%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights         73/8192         7300/819200   ( 0.9%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            183/32768        1830/327680   ( 0.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          3438/65536        6876/131072   ( 5.2%) 
+cubemapsamples          10/1024          160/16384    ( 1.0%) 
+overlays                19/512          6688/180224   ( 3.7%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     1249164/0        ( 0.0%) 
+visdata               [variable]        9170/16777216 ( 0.1%) 
+entdata               [variable]      103174/393216   (26.2%) 
+LDR ambient table      925/65536        3700/262144   ( 1.4%) 
+HDR ambient table      925/65536        3700/262144   ( 1.4%) 
+LDR leaf ambient       925/65536       25900/1835008  ( 1.4%) 
+HDR leaf ambient      2001/65536       56028/1835008  ( 3.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/35170    ( 0.0%) 
+pakfile               [variable]     2600814/0        ( 0.0%) 
+physics               [variable]      316669/4194304  ( 7.5%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 4525
+Writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+23 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 420 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (316669 bytes)
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -576.00
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -448.00
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -320.00
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -192.00
+Encountered obsolete static prop option to do its fade in screen space @ -224.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -96.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -480.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -352.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -736.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -608.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -992.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -864.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ 32.00 -48.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 160.00 -48.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 288.00 -48.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 288.00 -400.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 160.00 -400.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 32.00 -400.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -336.00 -832.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -336.00 -640.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -288.00 -912.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -160.00 -912.00 -640.00
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1330 texinfos to 617
+Reduced 79 texdatas to 70 (3015 bytes to 2615)
+Writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+
+nummapplanes:     (  2972 / 65536 )
+nummapbrushes:    (   847 /  8192 )
+nummapbrushsides: (  6013 / 65536 )
+num_map_overlays: (    19 /   512 )
+nummodels:        (    48 /  1024 )
+num_entities:     (   256 / 16384 )
+
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.prt
+ 179 portalclusters
+ 484 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 71 visible clusters (0.00%)
+Total clusters visible: 15678
+Average clusters visible: 87
+Building PAS...
+Average clusters audible: 159
+visdatasize:9170  compressed from 8592
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[59 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+1558 faces
+146104 square feet [21039004.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1558 patches before subdivision
+19354 patches after subdivision
+73 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1986274, max 524
+transfer lists:  15.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(51767, 54396, 57644)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(27757, 28951, 30534)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(14557, 15236, 16094)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(7970, 8330, 8774)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(4353, 4551, 4784)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(2405, 2513, 2636)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1333, 1393, 1458)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(743, 777, 811)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(416, 434, 453)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(234, 244, 254)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(132, 137, 143)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(74, 78, 81)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(42, 44, 46)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(24, 25, 26)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(14, 14, 15)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(8, 8, 8)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(4, 5, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(3, 3, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(1, 1, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0019 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+44 of 44 (100% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  48/1024         2304/49152    ( 4.7%) 
+brushes                847/8192        10164/98304    (10.3%) 
+brushsides            6021/65536       48168/524288   ( 9.2%) 
+planes                2972/65536       59440/1310720  ( 4.5%) 
+vertexes              3577/65536       42924/786432   ( 5.5%) 
+nodes                  876/65536       28032/2097152  ( 1.3%) 
+texinfos               617/12288       44424/884736   ( 5.0%) 
+texdata                 70/2048         2240/65536    ( 3.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1558/65536       87248/3670016  ( 2.4%) 
+hdr faces             1558/65536       87248/3670016  ( 2.4%) 
+origfaces             1297/65536       72632/3670016  ( 2.0%) 
+facebrushes            235/0             470/0        ( 0.0%) 
+facebrushlists        1558/0            6232/0        ( 0.0%) 
+leaves                 925/65536       29600/2097152  ( 1.4%) 
+leaffaces             2020/65536        4040/131072   ( 3.1%) 
+leafbrushes           1566/65536        3132/131072   ( 2.4%) 
+areas                    7/256            56/2048     ( 2.7%) 
+surfedges            12837/512000      51348/2048000  ( 2.5%) 
+edges                 8063/256000      32252/1024000  ( 3.1%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights         73/8192         7300/819200   ( 0.9%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            183/32768        1830/327680   ( 0.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          3438/65536        6876/131072   ( 5.2%) 
+cubemapsamples          10/1024          160/16384    ( 1.0%) 
+overlays                19/512          6688/180224   ( 3.7%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     1249164/0        ( 0.0%) 
+visdata               [variable]        9170/16777216 ( 0.1%) 
+entdata               [variable]      103362/393216   (26.3%) 
+LDR ambient table      925/65536        3700/262144   ( 1.4%) 
+HDR ambient table      925/65536        3700/262144   ( 1.4%) 
+LDR leaf ambient       925/65536       25900/1835008  ( 1.4%) 
+HDR leaf ambient      2001/65536       56028/1835008  ( 3.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/35170    ( 0.0%) 
+pakfile               [variable]     2600814/0        ( 0.0%) 
+physics               [variable]      316669/4194304  ( 7.5%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 4525
+Writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+23 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 420 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (316669 bytes)
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -576.00
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -448.00
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -320.00
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -192.00
+Encountered obsolete static prop option to do its fade in screen space @ -224.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -96.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -480.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -352.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -736.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -608.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -992.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -864.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ 32.00 -48.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 160.00 -48.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 288.00 -48.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 288.00 -400.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 160.00 -400.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 32.00 -400.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -336.00 -832.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -336.00 -640.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -288.00 -912.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -160.00 -912.00 -640.00
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1330 texinfos to 617
+Reduced 79 texdatas to 70 (3015 bytes to 2615)
+Writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+
+nummapplanes:     (  2972 / 65536 )
+nummapbrushes:    (   847 /  8192 )
+nummapbrushsides: (  6013 / 65536 )
+num_map_overlays: (    19 /   512 )
+nummodels:        (    48 /  1024 )
+num_entities:     (   256 / 16384 )
+
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.prt
+ 179 portalclusters
+ 484 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 72 visible clusters (0.00%)
+Total clusters visible: 15679
+Average clusters visible: 87
+Building PAS...
+Average clusters audible: 159
+visdatasize:9170  compressed from 8592
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[59 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+1558 faces
+146104 square feet [21039004.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1558 patches before subdivision
+19354 patches after subdivision
+73 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1986274, max 524
+transfer lists:  15.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(51765, 54394, 57643)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(27756, 28951, 30533)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(14557, 15236, 16094)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(7970, 8330, 8774)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(4352, 4551, 4784)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(2405, 2513, 2636)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1333, 1393, 1458)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(743, 777, 811)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(416, 434, 453)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(234, 244, 254)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(132, 137, 143)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(74, 78, 81)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(42, 44, 46)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(24, 25, 26)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(14, 14, 15)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(8, 8, 8)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(4, 5, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(3, 3, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(1, 1, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0020 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+44 of 44 (100% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  48/1024         2304/49152    ( 4.7%) 
+brushes                847/8192        10164/98304    (10.3%) 
+brushsides            6021/65536       48168/524288   ( 9.2%) 
+planes                2972/65536       59440/1310720  ( 4.5%) 
+vertexes              3577/65536       42924/786432   ( 5.5%) 
+nodes                  876/65536       28032/2097152  ( 1.3%) 
+texinfos               617/12288       44424/884736   ( 5.0%) 
+texdata                 70/2048         2240/65536    ( 3.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1558/65536       87248/3670016  ( 2.4%) 
+hdr faces             1558/65536       87248/3670016  ( 2.4%) 
+origfaces             1297/65536       72632/3670016  ( 2.0%) 
+facebrushes            235/0             470/0        ( 0.0%) 
+facebrushlists        1558/0            6232/0        ( 0.0%) 
+leaves                 925/65536       29600/2097152  ( 1.4%) 
+leaffaces             2020/65536        4040/131072   ( 3.1%) 
+leafbrushes           1566/65536        3132/131072   ( 2.4%) 
+areas                    7/256            56/2048     ( 2.7%) 
+surfedges            12837/512000      51348/2048000  ( 2.5%) 
+edges                 8063/256000      32252/1024000  ( 3.1%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights         73/8192         7300/819200   ( 0.9%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            183/32768        1830/327680   ( 0.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          3438/65536        6876/131072   ( 5.2%) 
+cubemapsamples          10/1024          160/16384    ( 1.0%) 
+overlays                19/512          6688/180224   ( 3.7%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     1249164/0        ( 0.0%) 
+visdata               [variable]        9170/16777216 ( 0.1%) 
+entdata               [variable]      103172/393216   (26.2%) 
+LDR ambient table      925/65536        3700/262144   ( 1.4%) 
+HDR ambient table      925/65536        3700/262144   ( 1.4%) 
+LDR leaf ambient       925/65536       25900/1835008  ( 1.4%) 
+HDR leaf ambient      2001/65536       56028/1835008  ( 3.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/35170    ( 0.0%) 
+pakfile               [variable]     2600814/0        ( 0.0%) 
+physics               [variable]      316669/4194304  ( 7.5%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 4525
+Writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+23 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 420 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (316669 bytes)
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -576.00
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -448.00
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -320.00
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -192.00
+Encountered obsolete static prop option to do its fade in screen space @ -224.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -96.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -480.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -352.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -736.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -608.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -992.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -864.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ 32.00 -48.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 160.00 -48.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 288.00 -48.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 288.00 -400.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 160.00 -400.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 32.00 -400.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -336.00 -832.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -336.00 -640.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -288.00 -912.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -160.00 -912.00 -640.00
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1330 texinfos to 617
+Reduced 79 texdatas to 70 (3006 bytes to 2606)
+Writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+
+nummapplanes:     (  2972 / 65536 )
+nummapbrushes:    (   847 /  8192 )
+nummapbrushsides: (  6013 / 65536 )
+num_map_overlays: (    19 /   512 )
+nummodels:        (    48 /  1024 )
+num_entities:     (   256 / 16384 )
+
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.prt
+ 179 portalclusters
+ 484 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 72 visible clusters (0.00%)
+Total clusters visible: 15679
+Average clusters visible: 87
+Building PAS...
+Average clusters audible: 159
+visdatasize:9170  compressed from 8592
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[59 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+1558 faces
+146104 square feet [21039004.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1558 patches before subdivision
+19354 patches after subdivision
+73 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1986274, max 524
+transfer lists:  15.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(51765, 54394, 57643)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(27756, 28951, 30533)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(14557, 15236, 16094)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(7970, 8330, 8774)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(4352, 4551, 4784)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(2405, 2513, 2636)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1333, 1393, 1458)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(743, 777, 811)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(416, 434, 453)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(234, 244, 254)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(132, 137, 143)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(74, 78, 81)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(42, 44, 46)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(24, 25, 26)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(14, 14, 15)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(8, 8, 8)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(4, 5, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(3, 3, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(1, 1, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0038 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+44 of 44 (100% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  48/1024         2304/49152    ( 4.7%) 
+brushes                847/8192        10164/98304    (10.3%) 
+brushsides            6021/65536       48168/524288   ( 9.2%) 
+planes                2972/65536       59440/1310720  ( 4.5%) 
+vertexes              3577/65536       42924/786432   ( 5.5%) 
+nodes                  876/65536       28032/2097152  ( 1.3%) 
+texinfos               617/12288       44424/884736   ( 5.0%) 
+texdata                 70/2048         2240/65536    ( 3.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1558/65536       87248/3670016  ( 2.4%) 
+hdr faces             1558/65536       87248/3670016  ( 2.4%) 
+origfaces             1297/65536       72632/3670016  ( 2.0%) 
+facebrushes            235/0             470/0        ( 0.0%) 
+facebrushlists        1558/0            6232/0        ( 0.0%) 
+leaves                 925/65536       29600/2097152  ( 1.4%) 
+leaffaces             2020/65536        4040/131072   ( 3.1%) 
+leafbrushes           1566/65536        3132/131072   ( 2.4%) 
+areas                    7/256            56/2048     ( 2.7%) 
+surfedges            12837/512000      51348/2048000  ( 2.5%) 
+edges                 8063/256000      32252/1024000  ( 3.1%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights         73/8192         7300/819200   ( 0.9%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            183/32768        1830/327680   ( 0.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          3438/65536        6876/131072   ( 5.2%) 
+cubemapsamples          10/1024          160/16384    ( 1.0%) 
+overlays                19/512          6688/180224   ( 3.7%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     1247764/0        ( 0.0%) 
+visdata               [variable]        9170/16777216 ( 0.1%) 
+entdata               [variable]      103520/393216   (26.3%) 
+LDR ambient table      925/65536        3700/262144   ( 1.4%) 
+HDR ambient table      925/65536        3700/262144   ( 1.4%) 
+LDR leaf ambient       925/65536       25900/1835008  ( 1.4%) 
+HDR leaf ambient      2001/65536       56028/1835008  ( 3.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/35170    ( 0.0%) 
+pakfile               [variable]     2600814/0        ( 0.0%) 
+physics               [variable]      316669/4194304  ( 7.5%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 4525
+Writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+23 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 420 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (318336 bytes)
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -576.00
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -448.00
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -320.00
+Encountered obsolete static prop option to do its fade in screen space @ -368.00 -96.00 -192.00
+Encountered obsolete static prop option to do its fade in screen space @ -224.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -96.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -480.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -352.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -736.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -608.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -992.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ -864.00 176.00 -896.00
+Encountered obsolete static prop option to do its fade in screen space @ 32.00 -48.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 160.00 -48.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 288.00 -48.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 288.00 -400.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 160.00 -400.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ 32.00 -400.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -336.00 -832.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -336.00 -640.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -288.00 -912.00 -640.00
+Encountered obsolete static prop option to do its fade in screen space @ -160.00 -912.00 -640.00
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1342 texinfos to 626
+Reduced 79 texdatas to 70 (3009 bytes to 2609)
+Writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+
+nummapplanes:     (  2982 / 65536 )
+nummapbrushes:    (   851 /  8192 )
+nummapbrushsides: (  6037 / 65536 )
+num_map_overlays: (    19 /   512 )
+nummodels:        (    51 /  1024 )
+num_entities:     (   259 / 16384 )
+
+1 second elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.prt
+ 179 portalclusters
+ 484 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 72 visible clusters (0.00%)
+Total clusters visible: 15679
+Average clusters visible: 87
+Building PAS...
+Average clusters audible: 159
+visdatasize:9170  compressed from 8592
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[59 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+1576 faces
+161621 square feet [23273436.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1576 patches before subdivision
+19372 patches after subdivision
+73 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1989340, max 524
+transfer lists:  15.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(51811, 54445, 57699)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(27783, 28979, 30565)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(14570, 15250, 16110)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(7977, 8338, 8782)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(4356, 4555, 4789)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(2407, 2515, 2639)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1334, 1394, 1460)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(744, 777, 812)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(416, 435, 453)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(234, 244, 254)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(132, 138, 143)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(74, 78, 81)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(42, 44, 46)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(24, 25, 26)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(14, 14, 15)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(8, 8, 8)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(4, 5, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(3, 3, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(1, 1, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0019 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+44 of 44 (100% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  51/1024         2448/49152    ( 5.0%) 
+brushes                851/8192        10212/98304    (10.4%) 
+brushsides            6045/65536       48360/524288   ( 9.2%) 
+planes                2982/65536       59640/1310720  ( 4.6%) 
+vertexes              3601/65536       43212/786432   ( 5.5%) 
+nodes                  894/65536       28608/2097152  ( 1.4%) 
+texinfos               626/12288       45072/884736   ( 5.1%) 
+texdata                 70/2048         2240/65536    ( 3.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1576/65536       88256/3670016  ( 2.4%) 
+hdr faces             1576/65536       88256/3670016  ( 2.4%) 
+origfaces             1315/65536       73640/3670016  ( 2.0%) 
+facebrushes            235/0             470/0        ( 0.0%) 
+facebrushlists        1576/0            6304/0        ( 0.0%) 
+leaves                 946/65536       30272/2097152  ( 1.4%) 
+leaffaces             2038/65536        4076/131072   ( 3.1%) 
+leafbrushes           1570/65536        3140/131072   ( 2.4%) 
+areas                    7/256            56/2048     ( 2.7%) 
+surfedges            12981/512000      51924/2048000  ( 2.5%) 
+edges                 8135/256000      32540/1024000  ( 3.2%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights         73/8192         7300/819200   ( 0.9%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            183/32768        1830/327680   ( 0.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          3438/65536        6876/131072   ( 5.2%) 
+cubemapsamples          10/1024          160/16384    ( 1.0%) 
+overlays                19/512          6688/180224   ( 3.7%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     1247764/0        ( 0.0%) 
+visdata               [variable]        9170/16777216 ( 0.1%) 
+entdata               [variable]      104713/393216   (26.6%) 
+LDR ambient table      946/65536        3784/262144   ( 1.4%) 
+HDR ambient table      946/65536        3784/262144   ( 1.4%) 
+LDR leaf ambient       946/65536       26488/1835008  ( 1.4%) 
+HDR leaf ambient      2019/65536       56532/1835008  ( 3.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/35170    ( 0.0%) 
+pakfile               [variable]     2600814/0        ( 0.0%) 
+physics               [variable]      318336/4194304  ( 7.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 4561
+Writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\hard maps\hard_maps\cource_1\4_rat maze\mp_coop_rat_maze_hard.bsp
+23 seconds elapsed
